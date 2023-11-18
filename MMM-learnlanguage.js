@@ -1,3 +1,5 @@
+/* global Module Log */
+
 /* MagicMirror²
  * Module: MMM-learnlanguage
  */
